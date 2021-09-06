@@ -12,3 +12,8 @@ SASS
 Scout App (compilador do SASS)
 
 ## Demonstração
+![68747470733a2f2f696b2e696d6167656b69742e696f2f6361706974616f2f62696b63726166742d7265706f7369746f72792f62696b63726166742d707265766965775f6d51677067575957412e706e67](https://user-images.githubusercontent.com/48844087/132151203-83c833d9-1468-4959-93c7-f182cf494cea.jpg)
+## Licença
+O projeto está sob a licença MIT. Para saber mais, acesse o arquivo LICENSE.
+
+# Desenvolvido com 💛 por David Mateus.
